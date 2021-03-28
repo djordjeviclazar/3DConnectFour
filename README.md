@@ -7,6 +7,9 @@
 - [ ] Optimize alpha-beta
 
 ## Help:
+- compiling commands:
+  - (compile-file "imefajla.cl")
+  - (load "imefajla.fasl")  
 - Printing -> stampajStanje (183. line)
 - Result -> rezultat (911. line)
 - Generator function -> mogucaStanja (899. line)
@@ -17,4 +20,3 @@
   - static heuristics (1102-1196 line)
   - including static h. (327. line)
 - alpha-beta (925-981 line)
-
